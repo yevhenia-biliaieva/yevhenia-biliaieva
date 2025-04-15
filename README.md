@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952ie83i893ueykvo4nlam63o6oikksd4hpe7xt82n1&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="coding" width="250" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952ie83i893ueykvo4nlam63o6oikksd4hpe7xt82n1&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 - 👩‍💻 My projects are available on [GitHub](https://github.com/yevhenia-biliaieva)
 
