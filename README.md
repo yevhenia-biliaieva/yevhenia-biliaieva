@@ -10,6 +10,8 @@
 
 ---
 
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tp23gw727jnfgnwsmrg9houdw5c6yqcodk7k4i69&rid=giphy.gif&ct=g">
+
 - 👩‍💻 My projects are available on [GitHub](https://github.com/yevhenia-biliaieva)
 
 - 📄 [View my CV (PDF)](https://drive.google.com/file/d/1hl6Em-9S4qwuiBZRxaOwCzi7c71svCfy/view?usp=drive_link)
