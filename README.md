@@ -35,7 +35,7 @@
 </p>
 
 ##
-  <img width="30px" align="center" src="https://www.svgrepo.com/show/12934/laptop.svg"/>
+  <img width="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-tools.svg/1200px-Circle-icons-tools.svg.png"/>
   Other Tools
 
 <p>
