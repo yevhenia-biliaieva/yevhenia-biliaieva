@@ -37,9 +37,11 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 </p>
 
-##
-  <img width="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-tools.svg/1200px-Circle-icons-tools.svg.png"/>
-  Other Tools
+<h2>
+<img width="30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-tools.svg/1200px-Circle-icons-tools.svg.png"/>
+Other Tools
+</h2>
+  
 
 <p>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -47,24 +49,27 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-##
+<h2>
   <img width="30px" align="center" src="https://img.icons8.com/arcade/256/shooting-stars.png">
   Projects
+</h2>
 
 - 🛠️ [Landing Page: Bike Store](https://yevhenia-biliaieva.github.io/landing-BIKE/)
   Built with HTML, CSS, Flexbox, Grid, and fully responsive.
 
-##
+<h2>
   <img width="30px" align="center" src="https://img.icons8.com/color/96/000000/language.png">
   Languages
-
+</h2>
+  
 - Ukrainian: Native
 - Czech: B2
 - English: B1
 
-##
+<h2>
   <img width="30px" align="center" src="https://img.icons8.com/arcade/256/shooting-stars.png">
   Future Plans
+</h2>
 
 <p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
