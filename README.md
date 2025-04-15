@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/107754172/219869111-bd9264fe-b61f-4bee-983c-11d8697be2f8.png)
+![logo](https://drive.google.com/file/d/1zeXAHTtHVqgg7-lzYluqyq3mYCRCqXG1/view?usp=drive_link)
 
 # Hi 👋, I'm Yevhenia Biliaieva
 ### Front-End Developer
