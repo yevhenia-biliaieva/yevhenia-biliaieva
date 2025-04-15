@@ -25,9 +25,10 @@
 </p>
 
 ### Languages and Tools:
-##
+<h2>
   <img width="30px" align="center" src="https://www.svgrepo.com/show/12934/laptop.svg"/>
   Front end
+</h2>
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
