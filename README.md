@@ -26,7 +26,6 @@
 ##
   <img width="30px" align="center" src="https://www.svgrepo.com/show/12934/laptop.svg"/>
   Front end
-</h2>
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -36,13 +35,8 @@
 </p>
 
 ##
-  <img
-    width="30px"
-    align="center"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tools.svg/2048px-Tools.svg.png"
-  >
+  <img width="30px" align="center" src="https://www.svgrepo.com/show/12934/laptop.svg"/>
   Other Tools
-</h2>
 
 <p>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -53,7 +47,6 @@
 ##
   <img width="30px" align="center" src="https://img.icons8.com/arcade/256/shooting-stars.png">
   Projects
-</h2>
 
 - 🛠️ [Landing Page: Bike Store](https://yevhenia-biliaieva.github.io/landing-BIKE/)
   Built with HTML, CSS, Flexbox, Grid, and fully responsive.
@@ -61,7 +54,6 @@
 ##
   <img width="30px" align="center" src="https://img.icons8.com/color/96/000000/language.png">
   Languages
-</h2>
 
 - Ukrainian: Native
 - Czech: B2
@@ -70,7 +62,6 @@
 ##
   <img width="30px" align="center" src="https://img.icons8.com/arcade/256/shooting-stars.png">
   Future Plans
-</h2>
 
 <p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
