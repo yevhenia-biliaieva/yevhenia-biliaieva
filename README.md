@@ -39,7 +39,7 @@
   <img
     width="30px"
     align="center"
-    src="https://user-images.githubusercontent.com/107754172/219866974-3690e7f4-1dc7-40e6-8a1a-4526c8855f11.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tools.svg/2048px-Tools.svg.png"
   >
   Other Tools
 </h2>
